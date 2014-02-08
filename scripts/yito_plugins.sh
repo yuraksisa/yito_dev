@@ -22,7 +22,6 @@ git clone https://github.com/yuraksisa/ysd_md_search.git
 git clone https://github.com/yuraksisa/ysd_md_social.git
 git clone https://github.com/yuraksisa/ysd_md_system.git
 git clone https://github.com/yuraksisa/ysd_md_translation.git
-git clone https://github.com/yuraksisa/ysd_md_yito.git
 git clone https://github.com/yuraksisa/ysd_plugin_aspects.git
 git clone https://github.com/yuraksisa/ysd_plugin_attachment.git
 git clone https://github.com/yuraksisa/ysd_plugin_auth.git
