@@ -13,13 +13,17 @@ Dependencies
 
 RVM and NPM are necesary in order to build
 
-rvm
+* rvm
 
 \curl -L https://get.rvm.io | bash -s stable --ruby
 
 Ruby 1.9.2 is necesary because picasa gem does not work on Ruby 2.0
 
-npm (node.js)
+* npm (node.js)
+
+* rmagick
+
+* sqlite3
 
 Creating the folders and download the projects
 ----------------------------------------------
