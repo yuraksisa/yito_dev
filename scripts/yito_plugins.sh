@@ -1,7 +1,7 @@
 git clone https://github.com/yuraksisa/ysd_md_attachment.git
 git clone https://github.com/yuraksisa/ysd_md_audit.git
 git clone https://github.com/yuraksisa/ysd_md_booking.git
-git clone https://github.com/yuraksisa/ysd_md_business_event.git
+git clone https://github.com/yuraksisa/ysd_md_business_events.git
 git clone https://github.com/yuraksisa/ysd_md_cms.git
 git clone https://github.com/yuraksisa/ysd_md_comparison.git
 git clone https://github.com/yuraksisa/ysd_md_configuration.git
@@ -14,7 +14,7 @@ git clone https://github.com/yuraksisa/ysd_md_location.git
 git clone https://github.com/yuraksisa/ysd_md_logger.git
 git clone https://github.com/yuraksisa/ysd_md_mail.git
 git clone https://github.com/yuraksisa/ysd_md_payment.git
-git clone https://github.com/yuraksisa/ysd_md_photo_gallery.git
+git clone https://github.com/yuraksisa/ysd_md_media_gallery.git
 git clone https://github.com/yuraksisa/ysd_md_price.git
 git clone https://github.com/yuraksisa/ysd_md_profile.git
 git clone https://github.com/yuraksisa/ysd_md_rac.git
@@ -31,7 +31,6 @@ git clone https://github.com/yuraksisa/ysd_plugin_booking.git
 git clone https://github.com/yuraksisa/ysd_plugin_cms.git
 git clone https://github.com/yuraksisa/ysd_plugin_community.git
 git clone https://github.com/yuraksisa/ysd_plugin_configuration.git
-git clone https://github.com/yuraksisa/ysd_plugin_connections.git
 git clone https://github.com/yuraksisa/ysd_plugin_contact.git
 git clone https://github.com/yuraksisa/ysd_plugin_dashboard.git
 git clone https://github.com/yuraksisa/ysd_plugin_delayed_jobs.git
@@ -43,7 +42,6 @@ git clone https://github.com/yuraksisa/ysd_plugin_forum.git
 git clone https://github.com/yuraksisa/ysd_plugin_hobbies.git
 git clone https://github.com/yuraksisa/ysd_plugin_integration.git
 git clone https://github.com/yuraksisa/ysd_plugin_language.git
-git clone https://github.com/yuraksisa/ysd_plugin_language_exchange.git
 git clone https://github.com/yuraksisa/ysd_plugin_location.git
 git clone https://github.com/yuraksisa/ysd_plugin_mail.git
 git clone https://github.com/yuraksisa/ysd_plugin_media_gallery.git
