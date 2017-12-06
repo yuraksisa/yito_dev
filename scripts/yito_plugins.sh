@@ -29,6 +29,7 @@ git clone https://github.com/yuraksisa/ysd_plugin_attachment.git
 git clone https://github.com/yuraksisa/ysd_plugin_auth.git
 git clone https://github.com/yuraksisa/ysd_plugin_background.git
 git clone https://github.com/yuraksisa/ysd_plugin_booking.git
+git clone https://github.com/yuraksisa/ysd_plugin_booking_frontend.git
 git clone https://github.com/yuraksisa/ysd_plugin_calendar.git
 git clone https://github.com/yuraksisa/ysd_plugin_cms.git
 git clone https://github.com/yuraksisa/ysd_plugin_community.git
@@ -39,6 +40,9 @@ git clone https://github.com/yuraksisa/ysd_plugin_delayed_jobs.git
 git clone https://github.com/yuraksisa/ysd_plugin_education_employment.git
 git clone https://github.com/yuraksisa/ysd_plugin_errors.git
 git clone https://github.com/yuraksisa/ysd_plugin_event.git
+git clone https://github.com/yuraksisa/ysd_plugin_frontend.git
+git clone https://github.com/yuraksisa/ysd_plugin_frontend_rentit_theme.git
+git clone https://github.com/yuraksisa/ysd_plugin_frontend_transfer_theme.git
 git clone https://github.com/yuraksisa/ysd_plugin_facebook.git
 git clone https://github.com/yuraksisa/ysd_plugin_forum.git
 git clone https://github.com/yuraksisa/ysd_plugin_hobbies.git
@@ -47,6 +51,7 @@ git clone https://github.com/yuraksisa/ysd_plugin_language.git
 git clone https://github.com/yuraksisa/ysd_plugin_location.git
 git clone https://github.com/yuraksisa/ysd_plugin_mail.git
 git clone https://github.com/yuraksisa/ysd_plugin_media_gallery.git
+git clone https://github.com/yuraksisa/ysd_plugin_newsfeed.git
 git clone https://github.com/yuraksisa/ysd_plugin_order.git
 git clone https://github.com/yuraksisa/ysd_plugin_payment.git
 git clone https://github.com/yuraksisa/ysd_plugin_price.git
@@ -55,3 +60,4 @@ git clone https://github.com/yuraksisa/ysd_plugin_rac.git
 git clone https://github.com/yuraksisa/ysd_plugin_rates.git
 git clone https://github.com/yuraksisa/ysd_plugin_system.git
 git clone https://github.com/yuraksisa/ysd_plugin_translation.git
+git clone https://github.com/yuraksisa/ysd_plugin_tryton.git
